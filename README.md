@@ -41,11 +41,7 @@ Open a new terminal window.
 Navigate to the src directory:
 
 ```bash
-cd src
-
-cd websockets
-
-node websocket.client.js
+node dist/websockets/websocket.client.js
 
 ```
 
